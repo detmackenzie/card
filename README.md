@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Meu Site de Links</title>
+</head>
+<body>
+    <header>
+        <h1>Meu Site de Links</h1>
+    </header>
+    <main>
+        <div class="card">
+            <h2> https://www.tiktok.com/@kbis4?_t=8fmOZQwjx5i&_r=1 </h2>
+            <p>TikTok</p>
+            <a href="#">Visitar</a>
+        </div>
+        <div class="card">
+            <h2>https://spotify.link/GXjULscnbDb</h2>
+            <p>Spotify (playlist)</p>
+            <a href="#">Visitar</a>
+        </div>
+    
+    </main>
+    <footer>
+        <p>&copy; 2023 Meu Site de Links</p>
+    </footer>
+</body>
+</html>
