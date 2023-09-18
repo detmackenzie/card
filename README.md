@@ -19,7 +19,7 @@
         <div class="card">
             <h2>https://spotify.link/GXjULscnbDb</h2>
             <p>Spotify</p>
-            <a href="#">playlist</a>
+            <a href="#">perfil</a>
         </div>
     
     </main>
