@@ -20,5 +20,10 @@
             <p>Spotify</p>
             <a href="#">perfil</a>
         </div>
+         <div class="card">
+            <h2> https://https://pin.it/3PSca6H</h2>
+            <p>TikTok</p>
+            <a href="#">perfil</a>
+        </div>
 </body>
         </html>
