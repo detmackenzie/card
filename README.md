@@ -20,10 +20,5 @@
             <p>Spotify</p>
             <a href="#">perfil</a>
         </div>
-    
-    </main>
-    <footer>
-        <p>&copy; 2023 Meu Site de Links</p>
-    </footer>
 </body>
 </html>
