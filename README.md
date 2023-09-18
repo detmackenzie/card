@@ -8,18 +8,18 @@
 </head>
 <body>
     <header>
-        <h1>Meu Site de Links</h1>
+        <h1>CARD - KACI</h1>
     </header>
     <main>
         <div class="card">
             <h2> https://www.tiktok.com/@kbis4?_t=8fmOZQwjx5i&_r=1 </h2>
             <p>TikTok</p>
-            <a href="#">Visitar</a>
+            <a href="#">perfil</a>
         </div>
         <div class="card">
             <h2>https://spotify.link/GXjULscnbDb</h2>
-            <p>Spotify (playlist)</p>
-            <a href="#">Visitar</a>
+            <p>Spotify</p>
+            <a href="#">playlist</a>
         </div>
     
     </main>
